@@ -19,3 +19,11 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+## 📺 Watch the demo:
+
+https://github.com/user-attachments/assets/1fde8238-b3fb-4bbb-96f2-7301bb6cfcd7
+
+
+
+
